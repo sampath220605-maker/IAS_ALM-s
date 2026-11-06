@@ -1,0 +1,48 @@
+Line 001: The server replies with a different document so that both directions of the channel are tested.
+Line 002: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 003: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 004: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 005: Active learning management exercises help students understand how real protocols behave in practice.
+Line 006: The server replies with a different document so that both directions of the channel are tested.
+Line 007: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 008: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 009: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 010: Active learning management exercises help students understand how real protocols behave in practice.
+Line 011: The server replies with a different document so that both directions of the channel are tested.
+Line 012: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 013: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 014: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 015: Active learning management exercises help students understand how real protocols behave in practice.
+Line 016: The server replies with a different document so that both directions of the channel are tested.
+Line 017: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 018: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 019: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 020: Active learning management exercises help students understand how real protocols behave in practice.
+Line 021: The server replies with a different document so that both directions of the channel are tested.
+Line 022: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 023: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 024: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 025: Active learning management exercises help students understand how real protocols behave in practice.
+Line 026: The server replies with a different document so that both directions of the channel are tested.
+Line 027: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 028: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 029: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 030: Active learning management exercises help students understand how real protocols behave in practice.
+Line 031: The server replies with a different document so that both directions of the channel are tested.
+Line 032: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 033: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 034: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 035: Active learning management exercises help students understand how real protocols behave in practice.
+Line 036: The server replies with a different document so that both directions of the channel are tested.
+Line 037: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 038: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 039: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 040: Active learning management exercises help students understand how real protocols behave in practice.
+Line 041: The server replies with a different document so that both directions of the channel are tested.
+Line 042: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 043: Key derivation functions slow down brute-force attacks by repeating a hash many thousands of times.
+Line 044: Padding fills the final block so the message length becomes a multiple of sixteen bytes.
+Line 045: Active learning management exercises help students understand how real protocols behave in practice.
+Line 046: The server replies with a different document so that both directions of the channel are tested.
+Line 047: Network security relies on confidentiality, integrity, authentication and availability working together.
+Line 048: Key derivation fun.

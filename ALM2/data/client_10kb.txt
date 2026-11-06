@@ -1,0 +1,97 @@
+Line 001: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 002: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 003: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 004: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 005: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 006: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 007: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 008: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 009: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 010: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 011: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 012: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 013: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 014: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 015: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 016: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 017: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 018: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 019: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 020: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 021: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 022: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 023: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 024: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 025: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 026: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 027: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 028: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 029: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 030: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 031: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 032: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 033: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 034: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 035: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 036: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 037: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 038: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 039: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 040: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 041: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 042: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 043: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 044: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 045: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 046: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 047: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 048: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 049: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 050: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 051: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 052: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 053: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 054: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 055: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 056: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 057: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 058: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 059: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 060: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 061: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 062: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 063: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 064: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 065: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 066: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 067: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 068: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 069: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 070: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 071: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 072: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 073: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 074: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 075: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 076: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 077: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 078: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 079: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 080: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 081: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 082: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 083: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 084: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 085: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 086: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 087: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 088: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 089: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 090: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 091: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 092: The Advanced Encryption Standard is a symmetric block cipher that works on 128-bit blocks.
+Line 093: A client sends data to a server over a TCP socket, and both sides must agree on the shared key.
+Line 094: Cipher block chaining mixes each plaintext block with the previous ciphertext block before encryption.
+Line 095: Secure systems never reuse an initialization vector with the same key for different messages.
+Line 096: Cryptography protects information by transforming readable plaintext into unreadable ciphertext.
+Line 097: The Advanced Encryption Standard.
